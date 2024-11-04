@@ -10,3 +10,9 @@ commands to pull
 git fetch
 git status
 git pull
+
+commands to create a branch
+git branch <branchname>
+git checkout -b <branchname>
+git branch <branchname> <tag>
+git branch <branchname> <commit id>
