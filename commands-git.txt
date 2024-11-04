@@ -7,4 +7,6 @@ git remote add origin "URL"
 git push -u origin main
 
 commands to pull
-commit changes
+git fetch
+git status
+git pull
